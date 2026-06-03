@@ -1,4 +1,4 @@
-# AI-Pathfinding-2D-Platformer
+# A-Star-Pathfinding-2D-Platformer
 In this project, I developed an AI pathfinding system for a 2D platformer game using the A* Search Algorithm. The main challenge was creating a flexible system that could accommodate various unit types and their characteristics, including differing sizes, jump heights, and other environmental factors.
 Key features of the system include:
 - Real-Time Path Calculation: The algorithm calculates the best route to a target in real-time, navigating a network of connected nodes. It accounts for dynamic factors like terrain, gravity, and player size to ensure the most efficient path is chosen.
